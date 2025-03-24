@@ -30,13 +30,13 @@
          2
     (1 row)
     ```
-    Obvserve that this data is not very realistic.
-    In the realworld, every store would need more than 1 staff member.
+    Observe that this data is not very realistic.
+    In the real world, every store would need more than 1 staff member.
     Also, since the dataset has customers from many different countries,
     it should probably have stores in many different countries as well.
 
     Fortunately, the pagila maintainers have also realized this problem and updated the dataset. 
-    But since the dataset is version controled as a git submodule,
+    But since the dataset is version-controlled as a git submodule,
     we don't yet have access to this new data.
     And this is a good thing!
     If git automatically gave us access to the new data when it was released,
@@ -100,7 +100,7 @@
 
         More diverse data #28
     ```
-    To access this data from within postgres, you will need to brind down your docker containers, and rebuild the images.
+    To access this data from within postgres, you will need to bring down your docker containers, and rebuild the images.
 
     > **NOTE:**
     > Notice that I have stopped telling you *how* to do this procedure...
@@ -126,7 +126,7 @@
     ```
 
     > **NOTE:**
-    > Reproducability is very important for debugging large industrial code bases.
+    > Reproducibility is very important for debugging large industrial code bases.
     > It is therefore standard practice in industry to version control test databases like this.
     > A common complaint from industry about newly graduated data science students is that they don't know how to version control data.
     > One of the purposes of this assignment is to familiarize you with this concept.
