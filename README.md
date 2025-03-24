@@ -63,14 +63,14 @@
     ```
     $ git checkout master
     $ git log -n1
-commit 5ba5a57aeb159f75f02aca2432d3c262186d13d3 (HEAD -> master, origin/master, origin/HEAD)
-Merge: f12dba5 58f7b6a
-Author: Devrim Gündüz <devrim@gunduz.org>
-Date:   Mon Dec 2 02:05:41 2024 +0400
+    commit 5ba5a57aeb159f75f02aca2432d3c262186d13d3 (HEAD -> master, origin/master, origin/HEAD)
+    Merge: f12dba5 58f7b6a
+    Author: Devrim Gündüz <devrim@gunduz.org>
+    Date:   Mon Dec 2 02:05:41 2024 +0400
 
-    Merge pull request #37 from pashagolub/jsonb-docker-compose
+        Merge pull request #37 from pashagolub/jsonb-docker-compose
 
-    Support JSONB data in Docker compose
+        Support JSONB data in Docker compose
     ```
     Observe that you now have data from December 2024.
 
