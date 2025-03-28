@@ -1,10 +1,10 @@
 # pagila-hw3
-[![](https://github.com/mikeizbicki/pagila-hw3/workflows/tests/badge.svg)](https://github.com/mikeizbicki/pagila-hw3/actions?query=workflow%3Atests)
+[![](https://github.com/stell25/pagila-hw3/workflows/tests/badge.svg)](https://github.com/stell25/pagila-hw3/actions?query=workflow%3Atests)
 
 ## Tasks
-
+i
 1. Fork this repo and clone it on to the lambda server like normal.
-    Ensure that you properly get the `pagila` submodule data.
+i    Ensure that you properly get the `pagila` submodule data.
 
 1. Build the containers and enter psql with the following commands.
     ```
